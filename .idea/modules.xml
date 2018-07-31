@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/disconf-base.iml" filepath="$PROJECT_DIR$/disconf-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disconf-client/disconf-client.iml" filepath="$PROJECT_DIR$/disconf-client/disconf-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disconf-core/disconf-core.iml" filepath="$PROJECT_DIR$/disconf-core/disconf-core.iml" />
+    </modules>
+  </component>
+</project>
